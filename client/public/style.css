@@ -1,25 +1,25 @@
 * {
-  background-color: #efefef;
+  background-color: #000000;
 }
 
 .album-name {
   font-weight: 500;
   text-decoration: underline;
   font-style: normal;
-  color: #000000;
+  color: #ffffff;
   margin-left: 1%;
   white-space: nowrap;
 }
 
 .track-list {
-  color: rgb(0, 0, 0);
+  color: #ffffff;
   font-style: italic;
   margin-left: 1%;
   white-space: nowrap;
 }
 
 .track-artist {
-  color: rgb(0, 0, 0);
+  color: rgb(100, 100, 100);
   font-style: normal;
   margin-left: 1%;
   white-space: nowrap;
